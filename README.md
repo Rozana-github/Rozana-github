@@ -6,7 +6,7 @@ processing, Python-based automation, and AI-driven research. Experienced working
 research institutes and startups in France, Germany, Japan, and Bangladesh. Passionate about
 applying natural language processing techniques to extract insights from complex datasets.
 
--CORE SKILLS
+-- CORE SKILLS
 -Programming: Python, Java, C++, SQL, PostgreSQL, MySQL, JavaScript, HTML, CSS
 Data & ML Tools: Jupyter Notebook, Google Colab, Pandas, NumPy, Scikit-learn, TensorFlow,
 NLTK, SpaCy
