@@ -12,6 +12,8 @@ Data & ML
 -Technologies: AWS, GCP, Docker, Git, LaTeX, Agile methodology
 
 - Tools: Jupyter Notebook, Google Colab, Pandas, NumPy, Scikit-learn, TensorFlow, NLTK, SpaCy
+
+  
 -Languages: English (C1), French (A2), German (A2), Bengali (Native), Hindi & Urdu (Fluent)
 
 - 📫 How to reach me is via email : rozanamail12@gmail.com
