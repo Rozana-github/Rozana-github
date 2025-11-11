@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rozana-github
 - 👀 PROFESSIONAL SUMMARY
-Motivated and detail-oriented Software Engineer and NLP Data Analyst with over 5 years of
+- Motivated and detail-oriented Software Engineer and NLP Data Analyst with over 5 years of
 experience in software development, data analysis, and machine learning. Skilled in text data
 processing, Python-based automation, and AI-driven research. Experienced working across
 research institutes and startups in France, Germany, Japan, and Bangladesh. Passionate about
