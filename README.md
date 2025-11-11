@@ -7,11 +7,11 @@ research institutes and startups in France, Germany, Japan, and Bangladesh. Pass
 applying natural language processing techniques to extract insights from complex datasets.
 
 -CORE SKILLS
-Programming: Python, Java, C++, SQL, PostgreSQL, MySQL, JavaScript, HTML, CSS
+-Programming: Python, Java, C++, SQL, PostgreSQL, MySQL, JavaScript, HTML, CSS
 Data & ML Tools: Jupyter Notebook, Google Colab, Pandas, NumPy, Scikit-learn, TensorFlow,
 NLTK, SpaCy
-Technologies: AWS, GCP, Docker, Git, LaTeX, Agile methodology
-Languages: English (C1), French (A2), German (A2), Bengali (Native), Hindi & Urdu (Fluent)
+-Technologies: AWS, GCP, Docker, Git, LaTeX, Agile methodology
+-Languages: English (C1), French (A2), German (A2), Bengali (Native), Hindi & Urdu (Fluent)
 
 - 📫 How to reach me is via email : rozanamail12@gmail.com
 
