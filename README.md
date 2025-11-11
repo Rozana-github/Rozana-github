@@ -1,6 +1,18 @@
 - 👋 Hi, I’m @Rozana-github
-- 👀 I’m interested in Python , Django, Java,AWS, Google cloud, SQL
-- woner of Rozsoft-Tech
+- 👀 PROFESSIONAL SUMMARY
+Motivated and detail-oriented Software Engineer and NLP Data Analyst with over 5 years of
+experience in software development, data analysis, and machine learning. Skilled in text data
+processing, Python-based automation, and AI-driven research. Experienced working across
+research institutes and startups in France, Germany, Japan, and Bangladesh. Passionate about
+applying natural language processing techniques to extract insights from complex datasets.
+
+CORE SKILLS
+Programming: Python, Java, C++, SQL, PostgreSQL, MySQL, JavaScript, HTML, CSS
+Data & ML Tools: Jupyter Notebook, Google Colab, Pandas, NumPy, Scikit-learn, TensorFlow,
+NLTK, SpaCy
+Technologies: AWS, GCP, Docker, Git, LaTeX, Agile methodology
+Languages: English (C1), French (A2), German (A2), Bengali (Native), Hindi & Urdu (Fluent)
+
 - 📫 How to reach me is via email : rozanamail12@gmail.com
 
 <!---
